@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🖐 I'm Louana (Damien), 21 years old, currently living in France.<br><br>🎓 I am a graduating student at EPSI, specialized in DevOPS.<br><br>💖 I am a volunteer and developer at Fluff Event (non-profit association for charity).
+🖐 I'm Louana (Damien), 22 years old, currently living in France.<br><br>🎓 I am a graduating student at EPSI, specialized in DevOPS.<br><br>💖 I am a volunteer and developer at Fluff Event (non-profit association for charity).
 
 ## 🌐 Socials:
 
